@@ -7,6 +7,8 @@ Our List!
 # Sisuo Session
 
 ``` sisuo-session
+title: Our List
+
 theme:
   color: red
 
