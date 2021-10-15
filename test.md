@@ -2,7 +2,7 @@
 title: 思索测试
 ---
 
-# 一些无聊的测试
+> 一些无聊的测试
 
 ``` sisuo-session
 title: 一些无聊的测试
