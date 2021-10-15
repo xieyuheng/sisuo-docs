@@ -1,7 +1,7 @@
 ---
 title: Bottles of OOP
 author: Sandi Marts
-date: 2021
+year: 2021
 ---
 
 # 1. Rediscovering Simplicity
