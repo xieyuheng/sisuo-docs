@@ -2,7 +2,6 @@
 title: 思索 • 问题领域
 author: 谢宇恒
 date: 2021-10-21
-newline: preserve
 ---
 
 # 记忆是为了思索
