@@ -1,5 +1,5 @@
 ---
-title: 问题领域 / Problem Domain
+title: 思索 • 问题领域
 date: 2021-10-21
 newline: preserve
 ---
